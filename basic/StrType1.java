@@ -8,4 +8,5 @@ public class StrType1 {
 	public static void main (String[] args){
 		StrType1 sTr1=new StrType1();		
 	}
-}
+}add a new line
+add a new after stage
