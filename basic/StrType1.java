@@ -10,3 +10,5 @@ public class StrType1 {
 	}
 }add a new line
 add a new after stage
+learn git stash
+contine to learn git stash
